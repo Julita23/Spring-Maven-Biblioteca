@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+form div label {
+
+    color: white;
+}
+
+.titulo{
+
+    text-align: center;
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#button{
+
+    background-color: blueviolet;
+
+}
+
+#button:hover{
+
+    background-color: white;
+    color: black;
+}
